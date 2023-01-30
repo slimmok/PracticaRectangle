@@ -1,0 +1,2 @@
+D:\Temp\Projects\KvadratLib\Kvadrat\Debug\KvadratLib.pdb
+D:\Temp\Projects\KvadratLib\Kvadrat\KvadratLib\Debug\KvadratLib.pdb
